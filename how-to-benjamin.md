@@ -4,43 +4,37 @@ Hi there, I’m Benjamin. This is a working ‘readme’ on how I operate, and w
 
 Like me, it’s a living, breathing document—and always subject to change :)
 
-## Contacting me
+## Intro
 
-I’m very connected, and probably online most hours of the day.
+I use the pronouns **he/him** and am based in Chicago, IL. Before product management, I spent time in marketing and business operations roles. Teach me something new!
 
-I bias toward written communication (1-pagers, email, Slack). You can (and should!) call if it’s warranted, but I prefer written artifacts and try to be as responsive as my schedule permits.
-
-My calendar is public! If time is showing as available, feel free to add something to it—you don’t have to ask permission first. Just know that I might want to reschedule, and I do appreciate if you share _and give me permission to change the event too_.
-
-If I’m not ‘working,’ it’s likely I won’t be looking at messages nor email. This is especially true if I’m on PTO. _Use your best judgement on important something is! I have a cell phone for a reason…_ And know that I will do my best not to interrupt your days away, etc, too.
-
-## Some background
-
-I’m a **product manager** by day, but my career path hasn’t been linear.
-
-I’m from Boulder, Colorado originally.
-
-My college years started in DC, but I transferred and graduated from the University of Colorado studying English literature and mathematics.
-
-I fell into tech working at Apple in higher-ed marketing/sales before spending time in retail and training. After taking a year off, I joined a PDX banking startup called Simple and worked in marketing and business ops, before shifting into product. In 2019, I moved to SF and helped start a new digital challenger bank called ONE. And in 2021, I was a technical product manager at Chime helping build a financial platform.
-
-tl;dr - I have many different experiences, and try to bring those with me to my work. I hope you do, too!
+I bias toward written communication (1-pagers, etc) as it gives me something to which I can respond; but am happy to jump on a call or to spitball and brainstorm.
 
 ## North Star principals
 
-**Prioritize what matters.** I believe you need to take care of yourself first, your family next, and then you can take care of everything else (which includes work).
+**Prioritize what matters.** I believe you need to take care of yourself first, your family next, and then you can take care of everything else (which includes work). When thinking about work, I prefer clarity and focus: _What problem are we solving?_ and understanding why we decided upon a given bet.
 
-**Think in systems.** Not everything needs to scale, nor be long-lasting. But when building meaningful products, I prefer to think about how each bit fits and works together; and what tradeoffs we’re taking, by designing something in a particular manner. I probably bias toward being verbose and possibly exposing too much functionality/‘work’ on clients or customers.
+**Think in systems.** Not everything needs to scale, nor be long-lasting. I like breaking things down to undersatnd how each bit fits and works together; and what tradeoffs we’re making, by designing something in a particular manner. I probably bias toward being verbose and possibly exposing too much functionality/‘work’ on clients or customers.
 
 **Ask lots of questions.** I love asking questions! Even if I suspect I know why something is a certain way, I find that asking questions can elicit different context. Often times, I learn something new—and that helps change my own perspective! I’d rather you over-communicate and ask more questions, so we can do our best to understand one-another’s positions.
 
 **Simplify.** And then simplify it again. I believe this is some of the hardest work, but when you get it right, it’s ✨ magical ✨
 
-**Acknowledge we’re all human.** I believe that building great products happens best when we’re operating as a strong team. As humans, we have distractions, emotions; we have both bad and good days; we have a world beyond work. Just remember that we’re all people living our own lives.
+**Be kind.** We won’t always agree on everything. That’s probably good! But when facing disagreements, I strongly prefer that we respectfully and kindly explore our positions. I believe that building great products happens best when we’re operating as a strong team. As humans, we have distractions, emotions; we have both bad and good days; we have a world beyond work. Just remember that we’re all people living our own lives.
 
 **Bias toward action.**
 
-**Be kind.** We won’t always agree on everything. That’s probably good! But when facing disagreements, I strongly prefer that we respectfully and kindly explore our positions.
+## Frameworks
+
+As a product manager, I lean on a few approaches depending on the context:
+1. **[Kano model](https://www.productplan.com/glossary/kano-model/)** for early-stage work.
+2. **[RICE](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)** for more established work.
+
+I am a huge fan of **[SBAR](https://en.wikipedia.org/wiki/SBAR)** for communicating impactful decisions.
+
+You will likely hear me talk about ‘one way door’ versus ‘two way door’ decisions: Is this easily-reversable? (From [Amazon](https://www.inc.com/jeff-haden/amazon-founder-jeff-bezos-this-is-how-successful-people-make-such-smart-decisions.html).)
+
+Are we ‘bike shedding’ or ‘yak shaving’? ([defintions](https://kaushik.page/blog/yak-shaving-bike-shedding/))
 
 ## Feedback
 
