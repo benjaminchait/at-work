@@ -8,17 +8,23 @@ Like me, it’s a living, breathing document—and always subject to change :)
 
 I’m very connected, and probably online most hours of the day.
 
-I bias toward written communication (1-pagers, email, Slack). You can (and should!) call if it’s warranted, but I try to be as responsive as my schedule permits.
+I bias toward written communication (1-pagers, email, Slack). You can (and should!) call if it’s warranted, but I prefer written artifacts and try to be as responsive as my schedule permits.
 
-My calendar is public! If time is showing as available, feel free to add something to it—you don’t have to ask permission first. Just know that I might want to reschedule, and I do appreciate if you share but give me permission to change the event too.
+My calendar is public! If time is showing as available, feel free to add something to it—you don’t have to ask permission first. Just know that I might want to reschedule, and I do appreciate if you share _and give me permission to change the event too_.
 
-If I’m not ‘working,’ it’s likely I won’t be looking at messages nor email. This is especially true if I’m on PTO. _Use your best judgement on important something is! I have a cell phone for a reason…_
+If I’m not ‘working,’ it’s likely I won’t be looking at messages nor email. This is especially true if I’m on PTO. _Use your best judgement on important something is! I have a cell phone for a reason…_ And know that I will do my best not to interrupt your days away, etc, too.
 
 ## Some background
 
 I’m a **product manager** by day, but my career path hasn’t been linear.
 
-I’m from Boulder, Colorado originally. My college years started in DC, but I transferred and graduated from the University of Colorado studying English literature and mathematics. I fell into tech working at Apple in higher-ed marketing/sales before spending time in retail and training. After taking a year off, I joined a PDX banking startup called Simple and worked in marketing and business ops, before shifting into product. In 2019, I moved to SF and helped start a new digital challenger bank called ONE. And in 2021, I was a technical product manager at Chime helping build a financial platform. _You can read more [on my personal site](https://benjaminchait.net)._
+I’m from Boulder, Colorado originally.
+
+My college years started in DC, but I transferred and graduated from the University of Colorado studying English literature and mathematics.
+
+I fell into tech working at Apple in higher-ed marketing/sales before spending time in retail and training. After taking a year off, I joined a PDX banking startup called Simple and worked in marketing and business ops, before shifting into product. In 2019, I moved to SF and helped start a new digital challenger bank called ONE. And in 2021, I was a technical product manager at Chime helping build a financial platform.
+
+tl;dr - I have many different experiences, and try to bring those with me to my work. I hope you do, too!
 
 ## North Star principals
 
@@ -56,3 +62,5 @@ If you want bonus points, please schedule any recurring meetings on a Tuesday, W
 ## Etc
 
 I love [my pup](https://lyra.dog). I will close my laptop to take her for walks. When we get home, I’m happy to jump on again to review updates and whatnot.
+
+I use my computing devices as my ‘external brain’ and rely upon my calendar, notes and reminders. I generally try to share what I have, and/or to work in public. Feel free to ask if you want me to publish my notes, or to elaborate on anything.
