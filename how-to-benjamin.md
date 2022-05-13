@@ -34,7 +34,8 @@ As a product manager, I lean on a few approaches depending on the context:
 
 Some other terms you might hear me use:
 * **[SBAR](https://en.wikipedia.org/wiki/SBAR):** A tool for communicating impactful decisions.
-* Is a decision a **‘one way door’** or a **‘two way door’**? aka Is this easily-reversable? (From [Amazon](https://www.inc.com/jeff-haden/amazon-founder-jeff-bezos-this-is-how-successful-people-make-such-smart-decisions.html).)
+* Is a decision a **‘one way door’** or a **‘two way door’**? aka Is this easily-reversable? ([Reversible and Irreversible Decisions
+](https://fs.blog/reversible-irreversible-decisions/))
 * Are we ‘bike shedding’ or ‘yak shaving’? ([defintions](https://kaushik.page/blog/yak-shaving-bike-shedding/))
 
 ## Feedback
