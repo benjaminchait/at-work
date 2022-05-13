@@ -30,11 +30,12 @@ As a product manager, I lean on a few approaches depending on the context:
 1. **[Kano model](https://www.productplan.com/glossary/kano-model/)** for early-stage work.
 2. **[RICE](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)** for more established work.
 
-I am a huge fan of **[SBAR](https://en.wikipedia.org/wiki/SBAR)** for communicating impactful decisions.
+## Words
 
-You will likely hear me talk about ‘one way door’ versus ‘two way door’ decisions: Is this easily-reversable? (From [Amazon](https://www.inc.com/jeff-haden/amazon-founder-jeff-bezos-this-is-how-successful-people-make-such-smart-decisions.html).)
-
-Are we ‘bike shedding’ or ‘yak shaving’? ([defintions](https://kaushik.page/blog/yak-shaving-bike-shedding/))
+Some other terms you might hear me use:
+* **[SBAR](https://en.wikipedia.org/wiki/SBAR):** A tool for communicating impactful decisions.
+* Is a decision a **‘one way door’** or a **‘two way door’**? aka Is this easily-reversable? (From [Amazon](https://www.inc.com/jeff-haden/amazon-founder-jeff-bezos-this-is-how-successful-people-make-such-smart-decisions.html).)
+* Are we ‘bike shedding’ or ‘yak shaving’? ([defintions](https://kaushik.page/blog/yak-shaving-bike-shedding/))
 
 ## Feedback
 
@@ -47,9 +48,9 @@ The best—and sometimes hardest—part of product management imho is adapting t
 People often say meetings are bad. I…might disagree? Meetings are another tool, and we’re all different humans trying to do big things, together.
 
 That said, I think of meetings in a few different contexts:
-* Recurring syncs: Team meetings, standups, stakeholder review sessions, etc. These should have notes with any action-items, and should be scheduled at a regular cadence (eg. bi-weekly). Open to anyone interested.
-* 1x1s: Same as previously, except between two humans. More informal, but I still believe in shared agendas/notes.
-* Problem solving: Do we need to align on a direction and/or make some decisions? Ideally, a pre-read (such as a 1-pager) has been shared. Also helpful: Is this a one-way or a two-way door?
+* **Recurring sync:** Team meetings, standups, stakeholder review sessions, etc. These should have notes with any action-items, and should be scheduled at a regular cadence (eg. bi-weekly). Open to anyone interested.
+* **1x1:** Same as previously, except between two humans. More informal, but I still believe in shared agendas/notes.
+* **Decision moment:** Do we need to align on a direction and/or make some decisions? Ideally, a pre-read (such as a 1-pager) has been shared. Also helpful: Is this a one-way or a two-way door?
 
 If you want bonus points, please schedule any recurring meetings on a Tuesday, Wednesday or Thursday. If we have a long weekend (or if I’m taking a long weekend myself) I’d love not needing to re-schedule everything from a Friday or a Monday…
 
