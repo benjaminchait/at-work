@@ -14,7 +14,7 @@ I bias toward written communication (1-pagers, etc) as it gives me something to 
 
 **Prioritize what matters.** I believe you need to take care of yourself first, your family next, and then you can take care of everything else (which includes work). When thinking about work, I prefer clarity and focus: _What problem are we solving?_ and understanding why we decided upon a given bet.
 
-**Think in systems.** Not everything needs to scale, nor be long-lasting. I like breaking things down to undersatnd how each bit fits and works together; and what tradeoffs we’re making, by designing something in a particular manner. I probably bias toward being verbose and possibly exposing too much functionality/‘work’ on clients or customers.
+**Think in systems.** Not everything needs to scale, nor be long-lasting. I like breaking things down to understand how each bit fits and works together; and what tradeoffs we’re making, by designing something in a particular manner. I probably bias toward being verbose and possibly exposing too much functionality/‘work’ on clients or customers. But if we talk about the _system_ and how this product piece fits within the whole, I hope we come up with the right-sized solution for where we are _today_.
 
 **Ask lots of questions.** I love asking questions! Even if I suspect I know why something is a certain way, I find that asking questions can elicit different context. Often times, I learn something new—and that helps change my own perspective! I’d rather you over-communicate and ask more questions, so we can do our best to understand one-another’s positions.
 
