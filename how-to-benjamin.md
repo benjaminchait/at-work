@@ -6,9 +6,9 @@ Like me, it’s a living, breathing document—and always subject to change :)
 
 ## Intro
 
-I use the pronouns **he/him** and am based in Chicago, IL. Before product management, I spent time in marketing and business operations roles. Teach me something new!
+I use the pronouns **he/him** and am based in Chicago, IL. Before **product management**, I spent time in _marketing_ and _business operations_ roles. Teach me something new!
 
-I bias toward written communication (1-pagers, etc) as it gives me something to which I can respond; but am happy to jump on a call or to spitball and brainstorm.
+I bias toward **written communication** (1-pagers, etc) as it gives me something to which I can respond; but am happy to jump on a call or to spitball and brainstorm.
 
 ## North Star principals
 
@@ -29,6 +29,7 @@ I bias toward written communication (1-pagers, etc) as it gives me something to 
 As a product manager, I lean on a few approaches depending on the context:
 1. **[Kano model](https://www.productplan.com/glossary/kano-model/)** for early-stage work.
 2. **[RICE](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)** for more established work.
+3. **Working backwards** is helpful as a _what must be true?_ when exploring a long-term vision, or a specific, targeted commitment.
 
 ## Words
 
