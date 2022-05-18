@@ -40,7 +40,7 @@ Some other terms you might hear me use:
 * Is a decision a **‘one way door’** or a **‘two way door’**? aka _How easily can we revert this change?_ ([Reversible and Irreversible Decisions
 ](https://fs.blog/reversible-irreversible-decisions/))
 * Are we ‘bike shedding’ or ‘yak shaving’? ([defintions](https://kaushik.page/blog/yak-shaving-bike-shedding/))
-* Remember that ‘agile’ is about people. What will help _our team_ deliver value?
+* Remember that any ‘process’ must account for the people impacted by it. What will help _our team_ deliver value?
 
 ## Feedback
 
