@@ -41,6 +41,7 @@ Some other terms you might hear me use:
 ](https://fs.blog/reversible-irreversible-decisions/))
 * Are we ‘bike shedding’ or ‘yak shaving’? ([defintions](https://kaushik.page/blog/yak-shaving-bike-shedding/))
 * Remember that any ‘process’ must account for the people impacted by it. What will help _our team_ deliver value?
+* I like the concept of a **DRI**, or a Directly Responsible Individual. That person need not _do_ all the work, but they are _responsible_ for delegating and/or understanding the work for which they are assigned as the DRI.
 
 ## Feedback
 
