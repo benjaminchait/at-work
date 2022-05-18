@@ -48,6 +48,8 @@ I’m here to learn, and to get better at my craft!
 
 The best—and sometimes hardest—part of product management imho is adapting to the project/team/environment, as every organization is different (and constantly changing). _Every_ perspective is valid, and I’m 🙏 grateful for you trusting me to grow, and to get better.
 
+I find it most helpful for you to let me know in real-time, and include specifics on what or how I can improve. If a chat might be helpful, send me a message and we can find some time to talk!
+
 ## Meetings
 
 People often say meetings are bad. I…might disagree? Meetings are another tool, and we’re all different humans trying to do big things, together.
