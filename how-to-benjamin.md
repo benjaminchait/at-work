@@ -20,7 +20,7 @@ I bias toward **written communication** (1-pagers, etc) as it gives me something
 
 **Simplify.** And then simplify it again. I believe this is some of the hardest work, but when you get it right, it’s ✨ magical ✨
 
-**Be kind.** We won’t always agree on everything. That’s probably good! But when facing disagreements, I strongly prefer that we respectfully and kindly explore our positions. I believe that building great products happens best when we’re operating as a strong team. As humans, we have distractions, emotions; we have both bad and good days; we have a world beyond work. Just remember that we’re all people living our own lives.
+**Be kind.** We won’t always agree on everything. That’s good! But when facing disagreements, I strongly prefer that we respectfully and kindly explore our positions. Help me understand where you’re coming from! I believe that building great products happens best when we’re operating as a strong team. As humans, we have distractions, emotions; we have both bad and good days; we have a world beyond work. Just remember that we’re all people living our own lives, and to do good work.
 
 **Bias toward action.**
 
@@ -29,15 +29,18 @@ I bias toward **written communication** (1-pagers, etc) as it gives me something
 As a product manager, I lean on a few approaches depending on the context:
 1. **[Kano model](https://www.productplan.com/glossary/kano-model/)** for early-stage work.
 2. **[RICE](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)** for more established work.
-3. **Working backwards** is helpful as a _what must be true?_ when exploring a long-term vision, or a specific, targeted commitment.
+3. **Working backwards** is helpful as a _what must be true?_ when exploring a long-term vision, or a specific, targeted commitment. I especially like this when thinking about specific dates; and lean on a _work back schedule_, taken from work on live events.
+4. **[Jobs To Be Done](https://www.productplan.com/glossary/jobs-to-be-done-framework/)**.
+5. I like working with clear agreements on how we make decisions. Previously, I’ve enjoyed both the **[RAPID](https://thinkinsights.net/strategy/rapid-decisions/)** and the **[RACI](https://racichart.org/the-raci-model/)** approaches; more important than a singular approach is that we agree on _how_ and _when_ we use these.
 
 ## Words
 
 Some other terms you might hear me use:
 * **[SBAR](https://en.wikipedia.org/wiki/SBAR):** A tool for communicating impactful decisions.
-* Is a decision a **‘one way door’** or a **‘two way door’**? aka Is this easily-reversable? ([Reversible and Irreversible Decisions
+* Is a decision a **‘one way door’** or a **‘two way door’**? aka _How easily can we revert this change?_ ([Reversible and Irreversible Decisions
 ](https://fs.blog/reversible-irreversible-decisions/))
 * Are we ‘bike shedding’ or ‘yak shaving’? ([defintions](https://kaushik.page/blog/yak-shaving-bike-shedding/))
+* Remember that ‘agile’ is about people. What will help _our team_ deliver value?
 
 ## Feedback
 
