@@ -35,13 +35,7 @@ As a product manager, I lean on a few approaches depending on the context:
 
 ## Words
 
-Some other terms you might hear me use:
-* **[SBAR](https://en.wikipedia.org/wiki/SBAR):** A tool for communicating impactful decisions.
-* Is a decision a **‘one way door’** or a **‘two way door’**? aka _How easily can we revert this change?_ ([Reversible and Irreversible Decisions
-](https://fs.blog/reversible-irreversible-decisions/))
-* Are we ‘bike shedding’ or ‘yak shaving’? ([defintions](https://kaushik.page/blog/yak-shaving-bike-shedding/))
-* Remember that any ‘process’ must account for the people impacted by it. What will help _our team_ deliver value?
-* I like the concept of a **DRI**, or a Directly Responsible Individual. That person need not _do_ all the work, but they are _responsible_ for delegating and/or understanding the work for which they are assigned as the DRI.
+Now in [glossary.md](glossary.md).
 
 ## Feedback
 
