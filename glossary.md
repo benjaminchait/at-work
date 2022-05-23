@@ -4,6 +4,12 @@ These are some terms you might hear me use. I add to this periodically, and welc
 
 ---
 
+## ack
+
+Shorthand for _acknowledge_.
+
+---
+
 ## DRI
 
 _DRI_ stands for _Directly Responsible Individual_: I really like this concept. That person need not _do_ all the work, but they are _responsible_ for delegating and/or understanding the work for which they are assigned as the DRI. Taken from .
