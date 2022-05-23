@@ -16,9 +16,21 @@ _DRI_ stands for _Directly Responsible Individual_: I really like this concept. 
 
 ---
 
+## lgtm
+
+Shorthand for _looks good to me_.
+
+---
+
 ## SBAR
 
 _SBAR_ stands for _Situation-Background-Analysis-Recommendation_: [SBAR](https://en.wikipedia.org/wiki/SBAR), a tool for communicating impactful decisions.
+
+---
+
+## +1
+
+Approval or agreement. In less formal circumstances (eg. chat) I often drop **+++** as a quick agreement.
 
 ---
 
