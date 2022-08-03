@@ -22,9 +22,21 @@ Shorthand for _looks good to me_.
 
 ---
 
+## rubber ducking
+
+It's usually helpful to talk things through. In the absence of a forum for this, just saying it out loud to others can be helpful to improve thoughtfulness and clarity.
+
+---
+
 ## SBAR
 
 _SBAR_ stands for _Situation-Background-Analysis-Recommendation_: [SBAR](https://en.wikipedia.org/wiki/SBAR), a tool for communicating impactful decisions.
+
+---
+
+## SWAG
+
+_SWAG_ stands for _Scientific Wild A** Guess_. This should be an informed estimate, but...slightly imprecise!
 
 ---
 
