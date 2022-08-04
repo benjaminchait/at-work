@@ -16,6 +16,12 @@ _DRI_ stands for _Directly Responsible Individual_: I really like this concept. 
 
 ---
 
+## first principles
+
+_[First principles](https://fs.blog/first-principles/)_ starts with axioms or truths that we must believe, and works from those to identify/explore possible solutions to complex problems. Rather than starting with what exists today, we might explore solutions based on if we started building this entirely from scratch.
+
+---
+
 ## lgtm
 
 Shorthand for _looks good to me_.
