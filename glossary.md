@@ -38,6 +38,8 @@ It's usually helpful to talk things through. In the absence of a forum for this,
 
 _SBAR_ stands for _Situation-Background-Analysis-Recommendation_: [SBAR](https://en.wikipedia.org/wiki/SBAR), a tool for communicating impactful decisions.
 
+_See [sbar](templates/sbar.md) template._
+
 ---
 
 ## SWAG

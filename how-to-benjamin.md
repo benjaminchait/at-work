@@ -56,6 +56,11 @@ That said, I think of meetings in a few different contexts:
 
 If you want bonus points, please schedule any recurring meetings on a Tuesday, Wednesday or Thursday. If we have a long weekend (or if I’m taking a long weekend myself) I’d love not needing to re-schedule everything from a Friday or a Monday…
 
+## Templates
+
+* [1-pager](templates/1-pager.md)
+* [sbar](templates/sbar.md)
+
 ## Etc
 
 I love [my pup](https://lyra.dog). I will close my laptop to take her for walks. When we get home, I’m happy to jump on again to review updates and whatnot.
