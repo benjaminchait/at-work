@@ -1,1 +1,1 @@
-[PRD template](https://docs.google.com/document/d/1S5ZnvgrE2KR8tfNqIlPw4p4Xu_xKfnVPEikL7fe5LwM/edit)
+[PRD template](https://docs.google.com/document/d/1S5ZnvgrE2KR8tfNqIlPw4p4Xu_xKfnVPEikL7fe5LwM/edit) in Google Drive
