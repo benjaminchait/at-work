@@ -59,6 +59,9 @@ If you want bonus points, please schedule any recurring meetings on a Tuesday, W
 ## Templates
 
 * [1-pager](templates/1-pager.md)
+* [1x1](templates/1x1.md)
+* [prd](templates/prd.md)
+* [retrospective](templates/retrospective.md)
 * [sbar](templates/sbar.md)
 
 ## Etc
