@@ -62,7 +62,7 @@ If you want bonus points, please schedule any recurring meetings on a Tuesday, W
 * **[1x1](https://docs.google.com/document/d/1TE1RL0nYF5lhARhpYPDhX2uV2wIGzK3R8DZtYHfPXA8/edit)** [Google Doc]: For recurring syncs, so we can stay aligned!
 * **[prd](https://docs.google.com/document/d/1S5ZnvgrE2KR8tfNqIlPw4p4Xu_xKfnVPEikL7fe5LwM/edit)** [Google Doc]: This is a product template, specifically a _product requirements document_. It might be too detailed for some work, but is intended to give much more exhaustive clarity than a 1-pager.
 * **[retrospective](https://docs.google.com/document/d/10EINucqdQNT_lQmgxRz57o1U_D13UaaYPhktIBgUkug/edit)** [Google Doc]: For team retrospectives, so we can get better!
-* [sbar](templates/sbar.md): This is to help facilitate a key or critical decision, and is intended to help document the decision-making process so others can quickly and easily understand what we need to decide (the “situation”) with relevant/factual details (the “background”) and some commentary (the “assessment”) leading to a proposal (the “recommendation”).
+* **[sbar](templates/sbar.md)**: This is to help facilitate a key or critical decision, and is intended to help document the decision-making process so others can quickly and easily understand what we need to decide (the “situation”) with relevant/factual details (the “background”) and some commentary (the “assessment”) leading to a proposal (the “recommendation”).
 
 ## Etc
 
