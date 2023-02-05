@@ -20,7 +20,7 @@ I bias toward **written communication** (1-pagers, etc) as it gives me something
 
 **Simplify.** And then simplify it again. I believe this is some of the hardest work, but when you get it right, it’s ✨ magical ✨
 
-**Be kind.** We won’t always agree on everything. That’s good! But when facing disagreements, I strongly prefer that we respectfully and kindly explore our positions. Help me understand where you’re coming from! I believe that building great products happens best when we’re operating as a strong team. As humans, we have distractions, emotions; we have both bad and good days; we have a world beyond work. Just remember that we’re all people living our own lives, and to do good work.
+**Be kind.** We won’t always agree on everything. That’s good! But when facing disagreements, I strongly prefer that we respectfully and kindly explore our positions. Help me understand where you’re coming from! I believe that building great products happens best when we’re operating as a strong team. As humans, we have distractions, emotions; we have both bad and good days; we have a world beyond work. Just remember that we’re all people living our own lives, and trying to do good work.
 
 **Bias toward action.**
 
