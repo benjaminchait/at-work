@@ -28,6 +28,12 @@ Shorthand for _looks good to me_.
 
 ---
 
+## MECE
+
+_[MECE principle](https://en.wikipedia.org/wiki/MECE_principle): "mutually exclusive and collectively exhaustive." Are the options mutually exclusive, or does overlap exist? Are the proposed options collectively exhaustive, or merely representative of some possibilities?
+
+---
+
 ## rubber ducking
 
 It's usually helpful to talk things through. In the absence of a forum for this, just saying it out loud to others can be helpful to improve thoughtfulness and clarity.
