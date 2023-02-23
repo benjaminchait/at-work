@@ -42,7 +42,7 @@ It's usually helpful to talk things through. In the absence of a forum for this,
 
 ## SBAR
 
-_SBAR_ stands for _Situation-Background-Analysis-Recommendation_: [SBAR](https://en.wikipedia.org/wiki/SBAR), a tool for communicating impactful decisions.
+_SBAR_ stands for _Situation-Background-Analysis-Recommendation_: [SBAR](https://en.wikipedia.org/wiki/SBAR), a tool for communicating impactful decisions _concisely and effectively_.
 
 _See [sbar](templates/sbar.md) template._
 
