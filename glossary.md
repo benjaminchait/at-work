@@ -36,6 +36,12 @@ _[MECE principle](https://en.wikipedia.org/wiki/MECE_principle)_: "mutually excl
 
 ---
 
+## Nouns, adjectives and verbs
+
+Words are hard, good product management helps synthesize and distill complex ideas for their team: https://trashpanda.cc/2021/09/nouns-adjectives-verbs-and-your-minimum-viable-product/
+
+---
+
 ## rubber ducking
 
 It's usually helpful to talk things through. In the absence of a forum for this, just saying it out loud to others can be helpful to improve thoughtfulness and clarity.
