@@ -30,7 +30,7 @@ Shorthand for _looks good to me_.
 
 ## MECE
 
-_[MECE principle](https://en.wikipedia.org/wiki/MECE_principle): "mutually exclusive and collectively exhaustive." Are the options mutually exclusive, or does overlap exist? Are the proposed options collectively exhaustive, or merely representative of some possibilities?
+_[MECE principle](https://en.wikipedia.org/wiki/MECE_principle)_: "mutually exclusive and collectively exhaustive." Are the options mutually exclusive, or does overlap exist? Are the proposed options collectively exhaustive, or merely representative of some possibilities?
 
 ---
 
