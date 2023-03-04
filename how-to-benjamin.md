@@ -58,7 +58,7 @@ If you want bonus points, please schedule any recurring meetings on a Tuesday, W
 
 ## Templates
 
-* **[1-pager: Simplified Template](https://docs.google.com/document/d/1Ng5s4EnvNUZSGcPQ-uoSRSKoJc_yN3kTefO7trwhemc/edit)** [Google Doc]: This is a product or proposal template. What are we thinking of doing, why do we care? This is a simplified template, and is good for general product work.
+* **[1-pager: Simplified Template](https://docs.google.com/document/d/13HKQadel_o53zZZcjAKJhqxdsolFhUFj3NGlTWmsRZc/edit)** [Google Doc]: This is a product or proposal template. What are we thinking of doing, why do we care? This is a simplified template, and is good for general product work.
   * **[1-pager](https://docs.google.com/document/d/1Ng5s4EnvNUZSGcPQ-uoSRSKoJc_yN3kTefO7trwhemc/edit)** [Google Doc]: This is a more robust 1-pager template. It attempts to describe some use cases, and may be better-framed for going from zero-to-one on a product feature.
   * **[prd](https://docs.google.com/document/d/1S5ZnvgrE2KR8tfNqIlPw4p4Xu_xKfnVPEikL7fe5LwM/edit)** [Google Doc]: This is a product template, specifically a _product requirements document_. It might be too detailed for some work, but is intended to give much more exhaustive clarity than a 1-pager. I find this useful for greenfield or exploratory work - let’s explore at topic or domain together!
 * **[sbar](templates/sbar.md)**: This is to help facilitate a key or critical decision, and is intended to help document the decision-making process so others can quickly and easily understand what we need to decide (the “situation”) with relevant/factual details (the “background”) and some commentary (the “assessment”) leading to a proposal (the “recommendation”).
