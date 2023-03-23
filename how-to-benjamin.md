@@ -2,7 +2,7 @@
 
 Hi there, I’m Benjamin. This is a working ‘readme’ on how I operate, and what you can expect from me.
 
-Like me, it’s a living, breathing document—and always subject to change :)
+This is a living, breathing document—and like me, always subject to change :)
 
 ## Intro
 
