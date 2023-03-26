@@ -10,7 +10,7 @@ These are some miscellaneous resources related to the discipline of ✨ product 
 
 * *[Badass: Making Users Awesome](https://www.oreilly.com/library/view/badass-making-users/9781491919057/)* by Kathy Sierra.
 * *[The Build Trap](https://melissaperri.com/book)* by Melissa Perri
-* *[Continuous Discovery Habits](https://www.producttalk.org/)* by Teresa Torers
+* *[Continuous Discovery Habits](https://www.producttalk.org/)* by Teresa Torres
 * [A Book Apart](https://abookapart.com)
 * [Books by 37signals](https://37signals.com/books)
 * [Books](https://www.intercom.com/resources/books) by Intercom
