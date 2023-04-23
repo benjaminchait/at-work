@@ -10,7 +10,7 @@ These are some miscellaneous resources related to the discipline of ✨ product 
 
 * *[Badass: Making Users Awesome](https://www.oreilly.com/library/view/badass-making-users/9781491919057/)* by Kathy Sierra.
 * *[The Build Trap](https://melissaperri.com/book)* by Melissa Perri
-* *[Continuous Discovery Habits](https://www.producttalk.org/)* by Teresa Torres
+* *[Continuous Discovery Habits](https://www.producttalk.org/)* by Teresa Torers
 * [A Book Apart](https://abookapart.com)
 * [Books by 37signals](https://37signals.com/books)
 * [Books](https://www.intercom.com/resources/books) by Intercom
@@ -28,7 +28,7 @@ These are some miscellaneous resources related to the discipline of ✨ product 
 ## People
 
 * [Shreyas Doshi](https://twitter.com/shreyas) - former Stripe PM
-* [Patrick McKenzie](https://twitter.com/patio11)
+* [Patrick McKenzie](https://www.kalzumeus.com/greatest-hits/)
 * [Jeff Weinstein](https://twitter.com/jeff_weinstein) - Stripe PM
 * [Patrick Collison](https://twitter.com/patrickc) - Stripe co-founder and CEO
 * [David Heinmeier Hansson](https://twitter.com/dhh) - created Ruby on Rails, cofounded Basecamp/37signals
