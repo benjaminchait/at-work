@@ -6,7 +6,7 @@ This is a living, breathing document—and like me, always subject to change :)
 
 ## Intro
 
-I use the pronouns **he/him** and am based in Chicago, IL. Before **product management**, I spent time in _marketing_ and _business operations_ roles. Teach me something new!
+I use the pronouns **he/him** and am based in Hyde Park, Chicago, Illinois, United States. Before **product management**, I spent time in _marketing_, _business operations_, and _training_ roles. Teach me something new!
 
 I bias toward **written communication** (1-pagers, etc) as it gives me something to which I can respond; but am happy to jump on a call or to spitball and brainstorm.
 
@@ -67,7 +67,7 @@ If you want bonus points, please schedule any recurring meetings on a Tuesday, W
 
 ## Etc
 
-I love [my pup](https://lyra.dog). I will close my laptop to take her for walks. When we get home, I’m happy to jump on again to review updates and whatnot.
+I love [my pup](https://benjaminchait.net/about/lyra). I will close my laptop to take her for walks. When we get home, I’m happy to jump on again to review updates and whatnot.
 
 I use my computing devices as my ‘external brain’ and rely upon my calendar, notes and reminders. I generally try to share what I have, and/or to work in public. Feel free to ask if you want me to publish my notes, or to elaborate on anything.
 
