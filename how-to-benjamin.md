@@ -10,7 +10,7 @@ I use the pronouns **he/him** and am based in Hyde Park, Chicago, Illinois, Unit
 
 I bias toward **written communication** (1-pagers, etc) as it gives me something to which I can respond; but am happy to jump on a call or to spitball and brainstorm.
 
-## North Star principals ⭐️
+## North Star principles ⭐️
 
 **Prioritize what matters.** I believe you need to take care of yourself first, your family next, and then you can take care of everything else (which includes work). When thinking about work, I prefer clarity and focus: _What problem are we solving?_ and understanding why we decided upon a given bet.
 
