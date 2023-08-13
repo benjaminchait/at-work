@@ -1,6 +1,6 @@
 # How to Benjamin
 
-Hi there, I’m Benjamin 👨‍💻 this is a working ‘readme’ on how I operate, and what you can expect from me. It is loosely based on [How to Rands](https://randsinrepose.com/archives/how-to-rands/) and other concepts of a personal doc.
+Hi there, I’m [Benjamin](https://benjaminchait.net/?utm_source=github-readme) 👨‍💻 this is a working ‘readme’ on how I operate, and what you can expect from me. It is loosely based on [How to Rands](https://randsinrepose.com/archives/how-to-rands/) and other concepts of a personal doc.
 
 This is a living, breathing document—and like me, always subject to change :)
 
