@@ -68,7 +68,7 @@ If you want ✨ bonus points✨ please schedule any recurring meetings on a Tues
 
 ## Etc
 
-I love 🐶 [my pup](https://benjaminchait.net/about/lyra). I will close my laptop to take her for walks. When we get home, I’m happy to jump on again to review updates and whatnot.
+I love 🐶 [my pup](https://benjaminchait.net/about/lyra?utm_source=github-readme). I will close my laptop to take her for walks. When we get home, I’m happy to jump on again to review updates and whatnot.
 
 I use my 💻 computing devices as my ‘external brain’ and rely upon my calendar, notes and reminders. I generally try to share what I have, and/or to work in public. Feel free to ask if you want me to publish my notes, or to elaborate on anything.
 
