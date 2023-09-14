@@ -12,3 +12,4 @@ Some links that I find myself referencing often...
 - [Why Craigslist Has A Near Perfect Design…For Craigslist](https://vanseodesign.com/web-design/craigslist-aesthetics/)
 - [The Design Theory Behind Amazon’s $5.6 Billion Success](https://www.fastcompany.com/90160960/the-design-theory-behind-amazons-5-6-billion-success)
 	- Quora: [Why doesn’t Amazon update its website’s design? It seems so old and inferior compared to other similar websites.](https://www.quora.com/Why-doesn-t-Amazon-update-its-website-s-design-It-seems-so-old-and-inferior-compared-to-other-similar-websites)
+- [Adding delays to increase perceived value: does it work?](https://90percentofeverything.com/2010/12/16/adding-delays-to-increase-perceived-value-does-it-work/)
