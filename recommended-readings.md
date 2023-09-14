@@ -10,3 +10,4 @@ Some links that I find myself referencing often...
 - [Advice](https://patrickcollison.com/advice)
 - [Seeing What’s Next](http://www.asymco.com/2013/11/18/seeing-whats-next-2/)
 - [Bored People Quit](https://randsinrepose.com/archives/bored-people-quit/)
+- [Shamir Secret Sharing](https://max.levch.in/post/724289457144070144/shamir-secret-sharing-its-3am-paul-the-head-of)
