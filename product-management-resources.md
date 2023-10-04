@@ -37,6 +37,7 @@ Some links that I find myself referencing often...
 * [Learning by Shipping](http://learningbyshipping.com/index.html) by Steven Sinofsky
 * [Silicon Valley Product Group](https://www.svpg.com)
   * "[Product Core Competencies](https://www.svpg.com/product-core-competencies/)"
+  * "[Product vs Feature Teams](https://www.svpg.com/product-vs-feature-teams/)"
 * [Lenny's newsletter](https://www.lennysnewsletter.com)
 * [Reforge](https://www.reforge.com)
   * "[The Growing Specialization of Product Management](https://www.reforge.com/blog/product-specializations)"
