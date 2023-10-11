@@ -68,7 +68,7 @@ Approval or agreement. In less formal circumstances (eg. chat) I often drop **++
 
 ---
 
-Misc 
+## Misc 
 
 * Is a decision a **‘one way door’** or a **‘two way door’**? aka _How easily can we revert this change?_ ([Reversible and Irreversible Decisions](https://fs.blog/reversible-irreversible-decisions/))
 * Are we ‘bike shedding’ or ‘yak shaving’? ([defintions](https://kaushik.page/blog/yak-shaving-bike-shedding/))
