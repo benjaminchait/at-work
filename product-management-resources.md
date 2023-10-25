@@ -42,6 +42,7 @@ Some links that I find myself referencing often...
 * [Reforge](https://www.reforge.com)
   * "[The Growing Specialization of Product Management](https://www.reforge.com/blog/product-specializations)"
 
+<!--
 ## People
 
 * [Shreyas Doshi](https://twitter.com/shreyas) - former Stripe PM
@@ -49,6 +50,7 @@ Some links that I find myself referencing often...
 * [Jeff Weinstein](https://twitter.com/jeff_weinstein) - Stripe PM
 * [Patrick Collison](https://twitter.com/patrickc) - Stripe co-founder and CEO
 * [David Heinmeier Hansson](https://twitter.com/dhh) - created Ruby on Rails, cofounded Basecamp/37signals
+//-->
 
 ## Other
 
