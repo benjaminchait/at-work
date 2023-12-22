@@ -16,6 +16,7 @@ Some links that I find myself referencing often...
 - [Advice](https://patrickcollison.com/advice)
 - [Seeing What’s Next](http://www.asymco.com/2013/11/18/seeing-whats-next-2/)
 - [Bored People Quit](https://randsinrepose.com/archives/bored-people-quit/)
+- [Easing Group Decision Making: A View, A Voice, A Vote Or A Veto](https://www.forbes.com/sites/ericpliner/2022/04/04/easing-group-decision-making-a-view-a-voice-a-vote-or-a-veto/?sh=712a2e6726e6)
 - [Shamir Secret Sharing](https://max.levch.in/post/724289457144070144/shamir-secret-sharing-its-3am-paul-the-head-of)
 - [Why Craigslist Has A Near Perfect Design…For Craigslist](https://vanseodesign.com/web-design/craigslist-aesthetics/)
 - [The Design Theory Behind Amazon’s $5.6 Billion Success](https://www.fastcompany.com/90160960/the-design-theory-behind-amazons-5-6-billion-success)
