@@ -50,10 +50,10 @@ I find it most helpful for you to let me know feedback in real-time, and include
 People often say meetings are bad. I…might disagree? Meetings are another _tool_, and we’re all different humans trying to do big things, together.
 
 That said, I think of meetings in a few different contexts:
-* **Recurring sync:** 🔁 Team meetings, standups, stakeholder review sessions, etc. These should have notes with any action-items, and should be scheduled at a regular cadence (eg. bi-weekly). Open to anyone interested.
-* **1x1:** 🔂 Same as previously, except between two humans. More informal, but I still believe in shared agendas/notes.
-* **Decision moment:** 🛑 Do we need to align on a direction and/or make some decisions? Ideally, a pre-read (such as a 1-pager) has been shared. Also helpful: Is this a one-way or a two-way door?
-* **Brainstorming:** 💡 Can we get toghether and talk about _opportunities_ and _what might be possible_? Probably not useful too frequently, but these can be great for creative thinking (more fun with 👯‍♀️ friends)!
+* 🔁 **Recurring sync:** Team meetings, standups, stakeholder review sessions, etc. These should have notes with any action-items, and should be scheduled at a regular cadence (eg. bi-weekly). Open to anyone interested.
+* 🔂 **1x1:** Same as previously, except between two humans. More informal, but I still believe in shared agendas/notes.
+* 🛑 **Decision moment:** Do we need to align on a direction and/or make some decisions? Ideally, a pre-read (such as a 1-pager) has been shared. Also helpful: Is this a one-way or a two-way door?
+* 💡 **Brainstorming:** Can we get together and talk about _opportunities_ and _what might be possible_? Probably not useful too frequently, but these can be great for creative thinking (more fun with 👯‍♀️ friends)!
 
 If you want ✨ bonus points✨ please schedule any recurring meetings on a Tuesday, Wednesday or Thursday. If we have a 🏖️ long weekend (or if I’m taking a long weekend myself) I’d love not needing to re-schedule everything from a Friday or a Monday…
 
