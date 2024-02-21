@@ -12,26 +12,26 @@ I bias toward **written communication** (1-pagers, etc) as it gives me something
 
 ## North Star principles ⭐️
 
-**Prioritize what matters.** I believe you need to take care of yourself first, your family next, and then you can take care of everything else (which includes work). When thinking about work, I prefer clarity and focus: _What problem are we solving?_ and understanding why we decided upon a given bet.
+🥇 **Prioritize what matters.** I believe you need to take care of yourself first, your family next, and then you can take care of everything else (which includes work). When thinking about work, I prefer clarity and focus: _What problem are we solving?_ and understanding why we decided upon a given bet.
 
-**Think in systems.** Not everything needs to scale, nor be long-lasting. I like breaking things down to understand how each bit fits and works together; and what tradeoffs we’re making, by designing something in a particular manner. I probably bias toward being verbose and possibly exposing too much functionality/‘work’ on clients or customers. But if we talk about the _system_ and how this product piece fits within the whole, I hope we come up with the right-sized solution for where we are _today_.
+⚙️ **Think in systems.** Not everything needs to scale, nor be long-lasting. I like breaking things down to understand how each bit fits and works together; and what tradeoffs we’re making, by designing something in a particular manner. I probably bias toward being verbose and possibly exposing too much functionality/‘work’ on clients or customers. But if we talk about the _system_ and how this product piece fits within the whole, I hope we come up with the right-sized solution for where we are _today_.
 
-**Ask lots of questions.** I love asking questions! Even if I suspect I know why something is a certain way, I find that asking questions can elicit different context. Often times, I learn something new—and that helps change my own perspective! I’d rather you over-communicate and ask more questions, so we can do our best to understand one-another’s positions.
+🤓 **Ask lots of questions.** I love asking questions! Even if I suspect I know why something is a certain way, I find that asking questions can elicit different context. Often times, I learn something new—and that helps change my own perspective! I’d rather you over-communicate and ask more questions, so we can do our best to understand one-another’s positions.
 
-**Simplify.** And then simplify it again. I believe this is some of the hardest work, but when you get it right, it’s ✨ magical ✨
+💡 **Simplify.** And then simplify it again. I believe this is some of the hardest work, but when you get it right, it’s ✨ magical ✨
 
-**Be kind.** We won’t always agree on everything. That’s good! But when facing disagreements, I strongly prefer that we respectfully and kindly explore our positions. Help me understand where you’re coming from! I believe that building great products happens best when we’re operating as a strong team. As humans, we have distractions, emotions; we have both bad and good days; we have a world beyond work. Just remember that we’re all people living our own lives, and trying to do good work.
+💛 **Be kind.** We won’t always agree on everything. That’s good! But when facing disagreements, I strongly prefer that we respectfully and kindly explore our positions. Help me understand where you’re coming from! I believe that building great products happens best when we’re operating as a strong team. As humans, we have distractions, emotions; we have both bad and good days; we have a world beyond work. Just remember that we’re all people living our own lives, and trying to do good work.
 
-**Bias toward action.**
+🏃‍♂️ **Bias toward action.**
 
 ## Frameworks
 
 As a product manager, I lean on a few approaches depending on the context:
-1. **[Kano model](https://www.productplan.com/glossary/kano-model/)** for early-stage work.
-2. **[RICE](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)** for more established work.
-3. **Working backwards** is helpful as a _what must be true?_ when exploring a long-term vision, or a specific, targeted commitment. I especially like this when thinking about specific dates; and lean on a _work back schedule_, taken from my experiences when producing live events.
-4. **[Jobs To Be Done](https://www.productplan.com/glossary/jobs-to-be-done-framework/)**.
-5. I like working with clear agreements on how we make decisions. Previously, I’ve enjoyed both the **[RAPID](https://thinkinsights.net/strategy/rapid-decisions/)** and the **[RACI](https://racichart.org/the-raci-model/)** approaches; more important than a singular approach is that we agree on _how_ and _when_ we use these.
+1. 🚀 **[Kano model](https://www.productplan.com/glossary/kano-model/)** for early-stage work.
+2. 📄 **[RICE](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)** for more established work.
+3. 🔙 **Working backwards** is helpful as a _what must be true?_ when exploring a long-term vision, or a specific, targeted commitment. I especially like this when thinking about specific dates; and lean on a _work back schedule_, taken from my experiences when producing live events.
+4. 🧳 **[Jobs To Be Done](https://www.productplan.com/glossary/jobs-to-be-done-framework/)**.
+5. 📋 I like working with clear agreements on how we make decisions. Previously, I’ve enjoyed both the **[RAPID](https://thinkinsights.net/strategy/rapid-decisions/)** and the **[RACI](https://racichart.org/the-raci-model/)** approaches; more important than a singular approach is that we agree on _how_ and _when_ we use these.
 
 ## Words
 
