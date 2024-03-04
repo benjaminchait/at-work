@@ -28,9 +28,6 @@ Some links that I find myself referencing often...
 * *[Badass: Making Users Awesome](https://www.oreilly.com/library/view/badass-making-users/9781491919057/)* by Kathy Sierra.
 * *[The Build Trap](https://melissaperri.com/book)* by Melissa Perri
 * *[Continuous Discovery Habits](https://www.producttalk.org/)* by Teresa Torers
-* [A Book Apart](https://abookapart.com)
-* [Books by 37signals](https://37signals.com/books)
-* [Books](https://www.intercom.com/resources/books) by Intercom
 * *[Build Better Products](https://rosenfeldmedia.com/books/build-better-products/)* by Laura Klein
 * *[Same as Ever](https://www.morganhousel.com)* by Morgan Housel
 
@@ -39,6 +36,13 @@ Some links that I find myself referencing often...
 * *[Burn Book](https://www.simonandschuster.com/books/Burn-Book/Kara-Swisher/9781982163891)* by Kara Swisher
 * *[Extremely Hardcore](https://www.penguinrandomhouse.com/books/741192/extremely-hardcore-by-zoe-schiffer/)* by Zoë Schiffer
 * *[An Elegant Puzzle](https://press.stripe.com/an-elegant-puzzle)* by Will Larson
+
+#### More business-like books
+
+* [Books by Edward Tufte](https://www.edwardtufte.com/)
+* [A Book Apart](https://abookapart.com)
+* [Books by 37signals](https://37signals.com/books)
+* [Books by Intercom](https://www.intercom.com/resources/books)
 
 ## Blogs
 
