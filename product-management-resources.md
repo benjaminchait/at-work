@@ -32,6 +32,13 @@ Some links that I find myself referencing often...
 * [Books by 37signals](https://37signals.com/books)
 * [Books](https://www.intercom.com/resources/books) by Intercom
 * *[Build Better Products](https://rosenfeldmedia.com/books/build-better-products/)* by Laura Klein
+* *[Same as Ever](https://www.morganhousel.com)* by Morgan Housel
+
+#### Stories
+
+* *[Burn Book](https://www.simonandschuster.com/books/Burn-Book/Kara-Swisher/9781982163891)* by Kara Swisher
+* *[Extremely Hardcore](https://www.penguinrandomhouse.com/books/741192/extremely-hardcore-by-zoe-schiffer/)* by Zoë Schiffer
+* *[An Elegant Puzzle](https://press.stripe.com/an-elegant-puzzle)* by Will Larson
 
 ## Blogs
 
