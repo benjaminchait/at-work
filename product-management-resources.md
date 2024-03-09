@@ -12,6 +12,8 @@ Some links that I find myself referencing often...
 
 - [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 - [radiate intent](https://leebyron.com/til/intent/)
+- [What I Wish Someone Had Told Me](https://blog.samaltman.com/what-i-wish-someone-had-told-me)
+- [Choose optimism](https://stephango.com/optimism)
 - [The Best](https://dcurt.is/the-best)
 - [Advice](https://patrickcollison.com/advice)
 - [Seeing What’s Next](http://www.asymco.com/2013/11/18/seeing-whats-next-2/)
