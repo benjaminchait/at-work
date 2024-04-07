@@ -55,6 +55,7 @@ Some links that I find myself referencing often...
 * [Lenny's newsletter](https://www.lennysnewsletter.com)
 * [Reforge](https://www.reforge.com)
   * "[The Growing Specialization of Product Management](https://www.reforge.com/blog/product-specializations)"
+* [Kristen Berman product teardowns](https://kristenberman.substack.com/p/the-best-of-product-teardowns-so)
 
 <!--
 ## People
