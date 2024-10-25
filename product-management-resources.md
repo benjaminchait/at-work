@@ -19,6 +19,7 @@ Some links that I find myself referencing often...
 - [Seeing What’s Next](http://www.asymco.com/2013/11/18/seeing-whats-next-2/)
 - [Bored People Quit](https://randsinrepose.com/archives/bored-people-quit/)
 - [Make better documents.](https://www.anildash.com/2024/03/10/make-better-documents/)
+- [Applying Brooks' Law to Lines of Communication and Team Size](https://dzone.com/articles/applying-brooks-law-to-lines-of-communication-and)
 - [The work is never just “the work”](https://davestewart.co.uk/blog/the-work-is-never-just-the-work)
 - [Easing Group Decision Making: A View, A Voice, A Vote Or A Veto](https://www.forbes.com/sites/ericpliner/2022/04/04/easing-group-decision-making-a-view-a-voice-a-vote-or-a-veto/?sh=712a2e6726e6)
 - [Shamir Secret Sharing](https://max.levch.in/post/724289457144070144/shamir-secret-sharing-its-3am-paul-the-head-of)
