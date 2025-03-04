@@ -11,6 +11,7 @@ These are some miscellaneous resources related to the discipline of ✨ product 
 Some links that I find myself referencing often...
 
 - [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
+  - Other [Falsehoods Programmers Believe in](https://github.com/kdeldycke/awesome-falsehood)
 - [radiate intent](https://leebyron.com/til/intent/)
 - [What I Wish Someone Had Told Me](https://blog.samaltman.com/what-i-wish-someone-had-told-me)
 - [Choose optimism](https://stephango.com/optimism)
