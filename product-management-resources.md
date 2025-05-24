@@ -79,3 +79,8 @@ Some links that I find myself referencing often...
 * [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/) is a fantastic community of both engineering and product leaders
 * [Mind the Product](https://www.mindtheproduct.com/) is a good community, and in the before-times was a great irl event
 * [Joshua Herzig-Marx](https://joshua.herzig-marx.com) maintains a list of [books about management & leadership](https://joshua.herzig-marx.com/books-about-management-leadership) and [resources to become a better PM](https://joshua.herzig-marx.com/pm-resources)
+
+## Jobs
+
+* [My questions for prospective employers (Director/VP roles)](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/)
+* [Questions for potential employers](https://github.com/tBaxter/questions-for-employers)
