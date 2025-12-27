@@ -6,7 +6,7 @@ This is a living, breathing document—and like me, always subject to change :)
 
 ## Intro 👋
 
-I use the pronouns **he/him** and am based in Hyde Park, Chicago, Illinois, United States. Before **product management**, I spent time in _marketing_, _business operations_, and _training_ roles. Teach me something new!
+I use the pronouns **he/him** and am based in Berkeley, California, United States. Before **product management**, I spent time in _marketing_, _business operations_, and _training_ roles. Teach me something new!
 
 I bias toward **written communication** (1-pagers, etc) as it gives me something to which I can respond; but am happy to jump on a call or to spitball and brainstorm.
 
