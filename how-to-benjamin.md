@@ -33,6 +33,8 @@ As a product manager, I lean on a few approaches depending on the context:
 4. 🧳 **[Jobs To Be Done](https://www.productplan.com/glossary/jobs-to-be-done-framework/)**.
 5. 📋 I like working with clear agreements on how we make decisions. Previously, I’ve enjoyed both the **[RAPID](https://thinkinsights.net/strategy/rapid-decisions/)** and the **[RACI](https://racichart.org/the-raci-model/)** approaches; more important than a singular approach is that we agree on _how_ and _when_ we use these.
 
+Most of these frameworks were designed for traditional software products. In the world of LLMs and generative AI, I find myself questioning how—and whether—they cleanly apply. How do you signal value when outputs are probabilistic? How do you build conviction around an approach when feedback loops and user behavior look different? I’m actively exploring this, and don’t yet have clean answers.
+
 ## Words
 
 Now in [glossary.md](glossary.md).
