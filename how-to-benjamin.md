@@ -1,6 +1,6 @@
 # How to Benjamin
 
-Hi there, I'm [Benjamin](https://benjaminchait.net/?utm_source=github-readme) 👨‍💻 this is a working ‘readme’ on how I operate, and what you can expect from me. It is loosely based on [How to Rands](https://randsinrepose.com/archives/how-to-rands/) and other concepts of a personal doc.
+Hi there, I'm [Benjamin](https://benjaminchait.net/?utm_source=github-readme) 👨‍💻 this is a working 'readme' on how I operate, and what you can expect from me. It is loosely based on [How to Rands](https://randsinrepose.com/archives/how-to-rands/) and other concepts of a personal doc.
 
 This is a living, breathing document—and like me, always subject to change :)
 
@@ -10,7 +10,7 @@ I use the pronouns **he/him** and am based in Berkeley, California, United State
 
 I bias toward **written communication** (1-pagers, etc) as it gives me something to which I can respond; but am happy to jump on a call or to spitball and brainstorm.
 
-I use my 💻 computing devices as my ‘external brain’ and rely upon my calendar, notes and reminders. I generally try to share what I have, and/or to work in public. Feel free to ask if you want me to publish my notes, or to elaborate on anything.
+I use my 💻 computing devices as my 'external brain' and rely upon my calendar, notes and reminders. I generally try to share what I have, and/or to work in public. Feel free to ask if you want me to publish my notes, or to elaborate on anything.
 
 I like ☕️ coffee.
 
@@ -18,7 +18,7 @@ I like ☕️ coffee.
 
 🥇 **Prioritize what matters.** I believe you need to take care of yourself first, your family next, and then you can take care of everything else (which includes work). When thinking about work, I prefer clarity and focus: _What problem are we solving?_ and understanding why we decided upon a given bet.
 
-⚙️ **Think in systems.** Not everything needs to scale, nor be long-lasting. I like breaking things down to understand how each bit fits and works together; and what tradeoffs we're making, by designing something in a particular manner. I probably bias toward being verbose and possibly exposing too much functionality/‘work’ on clients or customers. But if we talk about the _system_ and how this product piece fits within the whole, I hope we come up with the right-sized solution for where we are _today_.
+⚙️ **Think in systems.** Not everything needs to scale, nor be long-lasting. I like breaking things down to understand how each bit fits and works together; and what tradeoffs we're making, by designing something in a particular manner. I probably bias toward being verbose and possibly exposing too much functionality/'work' on clients or customers. But if we talk about the _system_ and how this product piece fits within the whole, I hope we come up with the right-sized solution for where we are _today_.
 
 🤓 **Ask lots of questions.** I love asking questions! Even if I suspect I know why something is a certain way, I find that asking questions can elicit different context. Often times, I learn something new—and that helps change my own perspective! I'd rather you over-communicate and ask more questions, so we can do our best to understand one-another's positions.
 
@@ -64,7 +64,7 @@ If you want ✨ bonus points✨ please schedule any recurring meetings on a Tues
 * **[1-pager: Simplified Template](templates/1-pager-simplified.md)**: This is a product or proposal template. What are we thinking of doing, why do we care? This is a simplified template, and is good for general product work.
   * **[1-pager](templates/1-pager.md)**: This is a more robust 1-pager template. It attempts to describe some use cases, and may be better-framed for going from zero-to-one on a product feature.
   * **[prd](templates/prd.md)**: This is a product template, specifically a _product requirements document_. It might be too detailed for some work, but is intended to give much more exhaustive clarity than a 1-pager. I find this useful for greenfield or exploratory work - let's explore at topic or domain together!
-* **[sbar](templates/sbar.md)**: This is to help facilitate a key or critical decision, and is intended to help document the decision-making process so others can quickly and easily understand what we need to decide (the “situation”) with relevant/factual details (the “background”) and some commentary (the “assessment”) leading to a proposal (the “recommendation”).
+* **[sbar](templates/sbar.md)**: This is to help facilitate a key or critical decision, and is intended to help document the decision-making process so others can quickly and easily understand what we need to decide (the "situation") with relevant/factual details (the "background") and some commentary (the "assessment") leading to a proposal (the "recommendation").
 * **[retrospective](templates/retrospective.md)**: For team retrospectives, so we can get better!
 * **[1x1](templates/1x1.md)**: For recurring syncs, so we can stay aligned!
 
