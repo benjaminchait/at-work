@@ -24,7 +24,7 @@ One individual is tasked with facilitating and leading the retro. This can be an
 
 Some teams prefer structured retros. These can include a pre-built board using a tool such as [EasyRetro](https://easyretro.io). While acceptable, I’ve noticed relying on specific tools often separates a retro from the day-to-day work. If you choose to go this route, the “Went well / To improve / Action items” format has worked for my teams in the past; and the facilitator gets to configure some choices within the tool.
 
-I myself prefer a simple document (eg. Google Doc) with three sections: The Good, The Meh, and The To-Be-Improved [[example doc](https://docs.google.com/document/d/10EINucqdQNT_lQmgxRz57o1U_D13UaaYPhktIBgUkug/edit?usp=sharing)]. This doc should be shared with every participant having Edit access.
+I myself prefer a simple document with three sections: The Good, The Meh, and The To-Be-Improved ([template](templates/retrospective.md)). This doc should be shared with every participant having Edit access.
 
 # Facilitating a retro
 
