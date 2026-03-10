@@ -1,6 +1,6 @@
 # How to Benjamin
 
-Hi there, I’m [Benjamin](https://benjaminchait.net/?utm_source=github-readme) 👨‍💻 this is a working ‘readme’ on how I operate, and what you can expect from me. It is loosely based on [How to Rands](https://randsinrepose.com/archives/how-to-rands/) and other concepts of a personal doc.
+Hi there, I’m [Benjamin](https://benjaminchait.net/?utm_source=github-readme) 👨‍💻 this is a working ‘readme’ on how I operate, and what you can expect from me. It is loosely based on [How to Rands](https://randsinrepose.com/archives/how-to-rands/) and other concepts of a personal doc. You can also find a [glossary of terms I use](glossary.md) in this repo.
 
 This is a living, breathing document—and like me, always subject to change :)
 
@@ -33,10 +33,6 @@ As a product manager, I lean on a few approaches depending on the context:
 4. 🧳 **[Jobs To Be Done](https://www.productplan.com/glossary/jobs-to-be-done-framework/)**.
 5. 📋 I like working with clear agreements on how we make decisions. Previously, I’ve enjoyed both the **[RAPID](https://thinkinsights.net/strategy/rapid-decisions/)** and the **[RACI](https://racichart.org/the-raci-model/)** approaches; more important than a singular approach is that we agree on _how_ and _when_ we use these.
 
-## Words
-
-Now in [glossary.md](glossary.md).
-
 ## Feedback
 
 I’m here to learn, and to get better at my craft! 🚀
@@ -59,17 +55,19 @@ If you want ✨ bonus points✨ please schedule any recurring meetings on a Tues
 
 ## Templates
 
-* **[1-pager: Simplified Template](templates/1-pager-simplified.md)**: This is a product or proposal template. What are we thinking of doing, why do we care? This is a simplified template, and is good for general product work.
-  * **[1-pager](templates/1-pager.md)**: This is a more robust 1-pager template. It attempts to describe some use cases, and may be better-framed for going from zero-to-one on a product feature.
-  * **[prd](templates/prd.md)**: This is a product template, specifically a _product requirements document_. It might be too detailed for some work, but is intended to give much more exhaustive clarity than a 1-pager. I find this useful for greenfield or exploratory work - let’s explore at topic or domain together!
-* **[sbar](templates/sbar.md)**: This is to help facilitate a key or critical decision, and is intended to help document the decision-making process so others can quickly and easily understand what we need to decide (the “situation”) with relevant/factual details (the “background”) and some commentary (the “assessment”) leading to a proposal (the “recommendation”).
-* **[retrospective](templates/retrospective.md)**: For team retrospectives, so we can get better!
+* **[1-pager: Simplified Template](templates/1-pager-simplified.md)**: A product or proposal template. What are we thinking of doing, why do we care? Good for general product work.
+* **[1-pager](templates/1-pager.md)**: A more robust 1-pager template. Attempts to describe some use cases, and may be better-framed for going from zero-to-one on a product feature.
+* **[PRD](templates/prd.md)**: A _product requirements document_. More exhaustive than a 1-pager; useful for greenfield or exploratory work.
+* **[SBAR](templates/sbar.md)**: For facilitating a key or critical decision. Documents the decision-making process so others can quickly understand the situation, background, assessment, and recommendation.
+* **[Retrospective](templates/retrospective.md)**: For team retrospectives, so we can get better!
 * **[1x1](templates/1x1.md)**: For recurring syncs, so we can stay aligned!
 
-## Etc
-
-<!-- I love 🐶 [my pup](https://benjaminchait.net/about/lyra?utm_source=github-readme). I will close my laptop to take her for walks. When we get home, I’m happy to jump on again to review updates and whatnot. -->
+## A few more things
 
 I use my 💻 computing devices as my ‘external brain’ and rely upon my calendar, notes and reminders. I generally try to share what I have, and/or to work in public. Feel free to ask if you want me to publish my notes, or to elaborate on anything.
 
 I like ☕️ coffee.
+
+---
+
+_Terms and shorthand I use can be found in [glossary.md](glossary.md)._
