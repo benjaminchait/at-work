@@ -1,8 +1,11 @@
 # 1-pager: [Title]
 
 _DRI: [name]_
+
 _Contributors: [names]_
+
 _Domain: [team or area]_
+
 _Date: [date]_
 
 ## What even is?
