@@ -1,4 +1,4 @@
-# 1-pager: [Title]
+# Product Vision: [Title]
 
 _[author] // [date]_
 

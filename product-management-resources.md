@@ -4,7 +4,7 @@ These are some miscellaneous resources related to the discipline of ✨ product 
 
 ## My personal templates
 
-[How to Benjamin](how-to-benjamin.md#templates) includes links to my current templates for things like a 1-pager, a "product requirements doc", and more
+[How to Benjamin](how-to-benjamin.md#templates) includes links to my current templates for things like a product vision doc, a "product requirements doc", and more
 
 ## Recommended readings
 

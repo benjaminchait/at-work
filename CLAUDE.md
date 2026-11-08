@@ -16,7 +16,7 @@ A personal documentation repository for Benjamin Chait (he/him). It contains wor
 | `retrospectives.md` | Guide for running team retrospectives |
 | `product-management-resources.md` | Curated reading list, blogs, communities, and PM resources |
 | `virtual-card.md` | Personal contact card |
-| `templates/` | Reusable templates (SBAR, 1-pager, 1x1, PRD, retrospective) |
+| `templates/` | Reusable templates (product vision, PRD, SBAR, retrospective, 1x1) |
 
 ## Writing conventions
 
