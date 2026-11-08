@@ -1,6 +1,12 @@
 # PRD: [Title]
 
-_[author] // [date]_
+_DRI: [name]_
+
+_Contributors: [names]_
+
+_Domain: [team or area]_
+
+_Date: [date]_
 
 ## What even is?
 
@@ -10,7 +16,11 @@ This PRD is the specification around [named feature] and is intended to [propose
 
 [Couple-sentence description of what we're building. Include relevant context for this area. Roll up to WHY and any objectives or stated milestones, eg. "Objective 1 [name], Key Result B [description]."]
 
-This differs from a 1-pager by being more specific and more detailed. A 1-pager paints a high-level picture of what we might go and accomplish—potentially through multiple phases—whereas a PRD is the canonical artifact around a given engineering build.
+[What background context is helpful? How did we get here?]
+
+[Why now? What is the impact or forcing function?]
+
+This differs from a product vision doc by being more specific and more detailed. A product vision doc paints a high-level picture of what we might go and accomplish—potentially through multiple phases—whereas a PRD is the canonical artifact around a given engineering build.
 
 ### Glossary
 
@@ -38,12 +48,23 @@ This differs from a 1-pager by being more specific and more detailed. A 1-pager 
 - Eg. "Multi-cloud is a non-objective"
 - Eg. "Data security is a non-objective in this phase—we will revisit in the future"
 
+## Proposal
+
+[Describe WHAT we are trying to build. Be clear and concise.]
+
 ## Requirements
 
-[Requirements written in a 'user story' manner. Key words include _may_ versus _must_. Each requirement must be completable. Sub-requirements provide further detail and roughly map to acceptance criteria.]
+[Requirements should match the Proposal, written in a 'user story' manner. Key words include _must_, _must not_, _should_, _should not_ and _may_. Each requirement must be completable, and maps to roughly one ticket. Sub-requirements provide further detail and roughly map to acceptance criteria.]
 
 - Users must be able to [do X]
   - [Sub-requirement / acceptance criteria]
+
+## Risks
+
+[What are the risks to achieving what's defined here? Often includes operational risks and callouts for other teams.]
+
+- We don't know [x]
+- If [y] happens, we will need to prioritize that
 
 ## Examples
 
@@ -51,7 +72,7 @@ This differs from a 1-pager by being more specific and more detailed. A 1-pager 
 
 ## Related
 
-[Related materials, likely internal documentation. Include a reference to the 1-pager that spawned this PRD, engineering specs, or business analysis docs.]
+[Related materials, likely internal documentation. Include a reference to the product vision doc that spawned this PRD, engineering specs, or business analysis docs.]
 
 ## Questions
 

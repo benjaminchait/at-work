@@ -55,9 +55,8 @@ If you want ✨ bonus points✨ please schedule any recurring meetings on a Tues
 
 ## Templates
 
-* **[1-pager: Simplified Template](templates/1-pager-simplified.md)**: A product or proposal template. What are we thinking of doing, why do we care? Good for general product work.
-* **[1-pager](templates/1-pager.md)**: A more robust 1-pager template. Attempts to describe some use cases, and may be better-framed for going from zero-to-one on a product feature.
-* **[PRD](templates/prd.md)**: A _product requirements document_. More exhaustive than a 1-pager; useful for greenfield or exploratory work.
+* **[Product Vision](templates/product-vision.md)**: What are we thinking of doing, and why do we care? Describes the users, their problems and some use cases. Good for going from zero-to-one on a product or feature.
+* **[PRD](templates/prd.md)**: A _product requirements document_. More specific than a product vision doc: what we're building, its requirements and its risks. Good for general product work, including greenfield or exploratory work.
 * **[SBAR](templates/sbar.md)**: For facilitating a key or critical decision. Documents the decision-making process so others can quickly understand the situation, background, assessment, and recommendation.
 * **[Retrospective](templates/retrospective.md)**: For team retrospectives, so we can get better!
 * **[1x1](templates/1x1.md)**: For recurring syncs, so we can stay aligned!

@@ -18,8 +18,8 @@ _What went well?_
 
 ### The Meh
 
-_What was okay, or could be improved?_
+_What was okay, but not great?_
 
-### The Bad
+### The To-Be-Improved
 
 _What should we change?_

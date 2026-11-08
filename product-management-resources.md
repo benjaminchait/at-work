@@ -4,7 +4,7 @@ These are some miscellaneous resources related to the discipline of ✨ product 
 
 ## My personal templates
 
-[github.com/benjaminchait/at-work](https://github.com/benjaminchait/at-work/blob/main/how-to-benjamin.md#templates) includes links to my current templates for things like a 1-pager, a "product requirements doc", and more
+[How to Benjamin](how-to-benjamin.md#templates) includes links to my current templates for things like a product vision doc, a "product requirements doc", and more
 
 ## Recommended readings
 
@@ -25,7 +25,7 @@ Some links that I find myself referencing often...
 - [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
 - [Everyone is wrong about that Slack flowchart](https://sophiebits.com/2024/10/30/everyone-is-wrong-about-that-slack-flowchart)
 - [There are no lossless transformations of natural language text](https://sophiebits.com/2026/06/25/there-are-no-lossless-transformations-of-natural-language-text)
-- [Easing Group Decision Making: A View, A Voice, A Vote Or A Veto](https://www.forbes.com/sites/ericpliner/2022/04/04/easing-group-decision-making-a-view-a-voice-a-vote-or-a-veto/?sh=712a2e6726e6)
+- [Easing Group Decision Making: A View, A Voice, A Vote Or A Veto](https://www.forbes.com/sites/ericpliner/2022/04/04/easing-group-decision-making-a-view-a-voice-a-vote-or-a-veto/)
 - [Shamir Secret Sharing](https://max.levch.in/post/724289457144070144/shamir-secret-sharing-its-3am-paul-the-head-of)
 - [Why Craigslist Has A Near Perfect Design…For Craigslist](https://vanseodesign.com/web-design/craigslist-aesthetics/)
 - [The Design Theory Behind Amazon’s $5.6 Billion Success](https://www.fastcompany.com/90160960/the-design-theory-behind-amazons-5-6-billion-success)
@@ -36,17 +36,17 @@ Some links that I find myself referencing often...
 
 * *[Badass: Making Users Awesome](https://www.oreilly.com/library/view/badass-making-users/9781491919057/)* by Kathy Sierra.
 * *[The Build Trap](https://melissaperri.com/book)* by Melissa Perri
-* *[Continuous Discovery Habits](https://www.producttalk.org/)* by Teresa Torers
+* *[Continuous Discovery Habits](https://www.producttalk.org/)* by Teresa Torres
 * *[Build Better Products](https://rosenfeldmedia.com/books/build-better-products/)* by Laura Klein
 * *[Same as Ever](https://www.morganhousel.com)* by Morgan Housel
 
-#### Stories
+### Stories
 
 * *[Burn Book](https://www.simonandschuster.com/books/Burn-Book/Kara-Swisher/9781982163891)* by Kara Swisher
 * *[Extremely Hardcore](https://www.penguinrandomhouse.com/books/741192/extremely-hardcore-by-zoe-schiffer/)* by Zoë Schiffer
 * *[An Elegant Puzzle](https://press.stripe.com/an-elegant-puzzle)* by Will Larson
 
-#### More business-like books
+### More business-like books
 
 * [Books by Edward Tufte](https://www.edwardtufte.com/)
 * [A Book Apart](https://abookapart.com)
@@ -63,16 +63,6 @@ Some links that I find myself referencing often...
 * [Reforge](https://www.reforge.com)
   * "[The Growing Specialization of Product Management](https://www.reforge.com/blog/product-specializations)"
 * [Kristen Berman product teardowns](https://kristenberman.substack.com/p/the-best-of-product-teardowns-so)
-
-<!--
-## People
-
-* [Shreyas Doshi](https://twitter.com/shreyas) - former Stripe PM
-* [Patrick McKenzie](https://www.kalzumeus.com/greatest-hits/)
-* [Jeff Weinstein](https://twitter.com/jeff_weinstein) - Stripe PM
-* [Patrick Collison](https://twitter.com/patrickc) - Stripe co-founder and CEO
-* [David Heinmeier Hansson](https://twitter.com/dhh) - created Ruby on Rails, cofounded Basecamp/37signals
-//-->
 
 ## Other
 

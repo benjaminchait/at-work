@@ -50,7 +50,7 @@ It's usually helpful to talk things through. In the absence of a forum for this,
 
 ## SBAR
 
-_SBAR_ stands for _Situation-Background-Analysis-Recommendation_: [SBAR](https://en.wikipedia.org/wiki/SBAR), a tool for communicating impactful decisions _concisely and effectively_.
+_SBAR_ stands for _Situation-Background-Assessment-Recommendation_: [SBAR](https://en.wikipedia.org/wiki/SBAR), a tool for communicating impactful decisions _concisely and effectively_.
 
 _See [sbar](templates/sbar.md) template._
 
@@ -71,4 +71,4 @@ Approval or agreement. In less formal circumstances (eg. chat) I often drop **++
 ## Misc 
 
 * Is a decision a **‘one way door’** or a **‘two way door’**? aka _How easily can we revert this change?_ ([Reversible and Irreversible Decisions](https://fs.blog/reversible-irreversible-decisions/))
-* Are we ‘bike shedding’ or ‘yak shaving’? ([defintions](https://kaushik.page/blog/yak-shaving-bike-shedding/))
+* Are we ‘bike shedding’ or ‘yak shaving’? ([definitions](https://kaushik.page/blog/yak-shaving-bike-shedding/))

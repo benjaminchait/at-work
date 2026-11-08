@@ -16,7 +16,7 @@ A personal documentation repository for Benjamin Chait (he/him). It contains wor
 | `retrospectives.md` | Guide for running team retrospectives |
 | `product-management-resources.md` | Curated reading list, blogs, communities, and PM resources |
 | `virtual-card.md` | Personal contact card |
-| `templates/` | Reusable templates (SBAR, 1-pager, 1x1, PRD, retrospective) |
+| `templates/` | Reusable templates (product vision, PRD, SBAR, retrospective, 1x1) |
 
 ## Writing conventions
 
@@ -53,3 +53,4 @@ Keep commits small and scoped to one file or topic when possible, consistent wit
 - Invent content (new frameworks, opinions, personal details) not grounded in what's already here.
 - Change Benjamin's stated preferences, values, or voice.
 - Rename or restructure files without explicit instruction.
+- Add TODO lists, plans, open questions, or decision logs. This repo is public; that tracking lives in Benjamin's private `lifeops` repo (`projects/at-work/`).
