@@ -2,7 +2,7 @@
 
 Benjamin Chait // October 2021
 
-# What even is?
+## What even is?
 
 This document is a collection of notes and suggestions for approaching *retrospectives*, also called *retros*.
 
@@ -10,30 +10,30 @@ A retro is NOT conducted as a response to a feature launch or incident; those ar
 
 Retros are a tool to help a team assess its ways of working. It must be conducted as a safe space for any individual to ask questions, make suggestions for improvements, and for the team to understand what went well and what could be improved as this team continues to deliver software together.
 
-# When
+## When
 
 Retrospectives should be planned and scheduled at a regular cadence. This could be aligned with a sprint schedule (eg. a retro to coincide with every two-week sprint) or for teams working in kanban, retros should be regularly-scheduled (eg. every two weeks).
 
-# Roles and responsibilities
+## Roles and responsibilities
 
 Everyone on the delivery team should be invited and included as a participant. Retros should not include stakeholders nor individuals not directly involved in delivery.
 
 One individual is tasked with facilitating and leading the retro. This can be an engineering manager, a product/project manager, or someone indirectly involved in delivery. This person must be aware of their involvement, and their objective is to support the team during the retro.
 
-# Planning
+## Planning
 
 Some teams prefer structured retros. These can include a pre-built board using a tool such as [EasyRetro](https://easyretro.io). While acceptable, I’ve noticed relying on specific tools often separates a retro from the day-to-day work. If you choose to go this route, the “Went well / To improve / Action items” format has worked for my teams in the past; and the facilitator gets to configure some choices within the tool.
 
 I myself prefer a simple document with three sections: The Good, The Meh, and The To-Be-Improved ([template](templates/retrospective.md)). This doc should be shared with every participant having Edit access.
 
-# Facilitating a retro
+## Facilitating a retro
 
 Each retro should start with the same *prime directive*: 
 > “Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand.”
 > 
 > Norm Kerth, *Project Retrospectives: A Handbook for Team Review*
 
-I like to read that out loud to set the tone for our discussion. I also remind people that we’ve booked 60 minutes* for our time together, but that we’ll end early if no further discussion is warranted.
+I like to read that out loud to set the tone for our discussion. I also remind people that we’ve booked 60 minutes[^1] for our time together, but that we’ll end early if no further discussion is warranted.
 
 If anyone is new to the retro, I take a moment to describe our process: We’re going to review three topics/themes, one-at-a-time. Once the team has written some commentary, we’ll look for themes and discuss.
 
@@ -59,9 +59,9 @@ And lastly, if time permits, I ask if anyone has something more to share — it 
 
 Finally, thank everyone for their participation; and remind folks about the next time y’all will be conducting a retro.
 
-* I start with 60 minutes for the first retro (or three) until the team naturally gets into a cadence of 30-minute retrospectives. From my past experience, the first two or three retros will require the most time; after those, I’ve found my teams more naturally approach continuous feedback and talking about our ways of working throughout our delivery process.
+[^1]: I start with 60 minutes for the first retro (or three) until the team naturally gets into a cadence of 30-minute retrospectives. From my past experience, the first two or three retros will require the most time; after those, I’ve found my teams more naturally approach continuous feedback and talking about our ways of working throughout our delivery process.
 
-# Building habits
+## Building habits
 
 As soon as a retro concludes, publish your notes in a shared place (eg. Slack channel). I continue to keep these notes only visible to those participating in the retro, but want to make them easy to find.
 
