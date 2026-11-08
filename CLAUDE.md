@@ -53,3 +53,4 @@ Keep commits small and scoped to one file or topic when possible, consistent wit
 - Invent content (new frameworks, opinions, personal details) not grounded in what's already here.
 - Change Benjamin's stated preferences, values, or voice.
 - Rename or restructure files without explicit instruction.
+- Add TODO lists, plans, open questions, or decision logs. This repo is public; that tracking lives in Benjamin's private `lifeops` repo (`projects/at-work/`).
