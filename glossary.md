@@ -12,7 +12,7 @@ Shorthand for _acknowledge_.
 
 ## DRI
 
-_DRI_ stands for _Directly Responsible Individual_: I really like this concept. That person need not _do_ all the work, but they are _responsible_ for delegating and/or understanding the work for which they are assigned as the DRI. Taken from .
+_DRI_ stands for _Directly Responsible Individual_: I really like this concept. That person need not _do_ all the work, but they are _responsible_ for delegating and/or understanding the work for which they are assigned as the DRI. Taken from [Apple](https://www.forbes.com/sites/quora/2012/10/02/how-well-does-apples-directly-responsible-individual-dri-model-work-in-practice/).
 
 For more background see: https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/
 
